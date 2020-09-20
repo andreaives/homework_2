@@ -1,0 +1,52 @@
+.header {
+   margin-bottom: 50px;
+
+
+}
+h1 {
+    font-family: 'Bebas Neue', cursive;
+}
+body {
+
+    font-family: 'Poppins', sans-serif;
+}
+p {
+    color: black;
+    font-family: 'Poppins', sans-serif;
+  }
+
+h2 {
+
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+
+.clearfix::after {
+	content: ” “;
+display: block;
+clear: both;
+}
+img {
+    width: 200px;
+    height: auto;
+}
+
+.name-image {
+    width: 33%;
+    float: left;  
+}
+
+.bio {
+    width: 33%;
+    float: left;
+}
+
+.contact-info {
+    width: 33%;
+    float: left;
+}
