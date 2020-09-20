@@ -1,11 +1,11 @@
-.header {
-   margin-bottom: 50px;
-
-
-}
 h1 {
-    font-family: 'Bebas Neue', cursive;
-}
+    font-size: 60px;
+    color: white;
+   }
+header {
+     background-color: rgb(75, 74, 74);
+     text-align: center;
+   }
 body {
 
     font-family: 'Poppins', sans-serif;
