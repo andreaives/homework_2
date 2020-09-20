@@ -20,33 +20,33 @@ h2 {
     font-family: 'Poppins', sans-serif;
 }
 
-.container {
+/* .container {
     width: 1000px;
     margin: 0 auto;
-}
+} */
 
 
-.clearfix::after {
+/* .clearfix::after {
 	content: ” “;
-display: block;
-clear: both;
-}
-img {
+    display: block;
+    clear: both;
+}  */
+/* img {
     width: 200px;
     height: auto;
-}
+} */
 
-.name-image {
-    width: 33%;
+/* .name-image {
+    width: 50%;
     float: left;  
 }
 
 .bio {
-    width: 33%;
+    width: 50%;
     float: left;
-}
+} */
 
-.contact-info {
+/* .contact-info {
     width: 33%;
     float: left;
-}
+} */
