@@ -18,12 +18,15 @@ p {
 h2 {
 
     font-family: 'Poppins', sans-serif;
+    text-align: center;
 }
-
-/* .container {
-    width: 1000px;
+.bio {
+    text-align: center;
+}
+.container {
+    width: 100%;
     margin: 0 auto;
-} */
+}
 
 
 /* .clearfix::after {
@@ -31,10 +34,11 @@ h2 {
     display: block;
     clear: both;
 }  */
-/* img {
-    width: 200px;
+img {
+    width: 350px;
     height: auto;
-} */
+    align-content: center;
+}
 
 /* .name-image {
     width: 50%;
