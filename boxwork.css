@@ -33,7 +33,10 @@ div.card {
     border-style: solid;
     border-color: black;
 }
-
+header {
+    background-color: rgb(75, 74, 74);
+    text-align: center;
+  }
 
 /* .clearfix::after {
 	content: ” “;
