@@ -9,15 +9,15 @@ This website includes a portfolio page, About Me page, and a contact page. Each 
 
 Welcome to the home page where you can read a little baout me. Visitors to the website have the ability to toggle through the different pages with the nave bar.
 
-![ScreenShot](../homework_2/assets/img1.jpg)
+![ScreenShot](homework_2/assets/img1.jpg)
 
 Next check out my Portfolio page. Users are able to access my work through buttons.
 
-![ScreenShot](../homework_2/assets/img2.jpg)
+![ScreenShot](homework_2/assets/img2.jpg)
 
 Finally the contact page will allow users to submit their information as well as have my contact information.
 
-![ScreenShot](../homework_2/assets/img3.jpg)
+![ScreenShot](homework_2/assets/img3.jpg)
 
 
 ### Technologies Used
