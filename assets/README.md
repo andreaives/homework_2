@@ -16,7 +16,7 @@ The main tech used was JavaScript, HTML, and CSS. This code was created on Visua
 Problems I faced
 My biggest problem with this page was the drop down menu was not responsive upon installation. To fix this issue I had the chage the data-target tag to match the id. I am unsure why Boostrap did not have it set correctly in the first place.
 
-[Portfolio Link] (https://andreaives.github.io/my_bio_site/)
+[Portfolio Link](https://andreaives.github.io/my_bio_site/)
 
 Credits
 To all of the goons that dedicated their life to pursuing the art of coding with me.
