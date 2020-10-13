@@ -17,7 +17,7 @@ Next check out my Portfolio page. Users are able to access my work through butto
 
 Finally the contact page will allow users to submit their information as well as have my contact information.
 
-![ScreenShot](homework_2/assets/img3.jpg)
+![ScreenShot](/homework_2/assets/img3.jpg)
 
 
 ### Technologies Used
